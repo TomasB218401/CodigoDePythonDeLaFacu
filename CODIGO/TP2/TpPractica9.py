@@ -1,0 +1,12 @@
+numero_a_evaluar = int(input("Ingrese un numero para saber \n sus valores en la tabla de multiplicar: "))
+a = numero_a_evaluar
+print("\n 1X"+str(a)+ " = "+str(a*1))
+print("\n 2X"+str(a)+ " = "+str(a*2))
+print("\n 3X"+str(a)+ " = "+str(a*3))
+print("\n 4X"+str(a)+ " = "+str(a*4))
+print("\n 5X"+str(a)+ " = "+str(a*5))
+print("\n 6X"+str(a)+ " = "+str(a*6))
+print("\n 7X"+str(a)+ " = "+str(a*7))
+print("\n 8X"+str(a)+ " = "+str(a*8))
+print("\n 9X"+str(a)+ " = "+str(a*9))
+print("\n 10X"+str(a)+ " = "+str(a*10))
